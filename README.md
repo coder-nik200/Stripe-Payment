@@ -4,37 +4,37 @@ This project demonstrates how to create a Stripe Checkout session and redirect u
 --
 
 ## 🚀 Features
-🛍️ Product listing UI (React)
-💳 Stripe Checkout Session integration
-🔐 Secure backend using Stripe Secret Key
-✅ Success & Cancel payment pages
-🌍 Environment variable support
-🛡️ GitHub secret protection ready
+🛍️ Product listing UI (React) <br />
+💳 Stripe Checkout Session integration <br />
+🔐 Secure backend using Stripe Secret Key <br />
+✅ Success & Cancel payment pages <br />
+🌍 Environment variable support <br />
+🛡️ GitHub secret protection ready <br />
 
 
 ## 📂 Project Structure
 
-StripePayment/
-│
-├── Backend/
-│   ├── server.js
-│   ├── package.json
-│   └── .env (NOT committed)
-│
-├── src/
-│   ├── components/
-│   │   ├── Products.jsx
-│   │   ├── Success.jsx
-│   │   └── Cancel.jsx
-│   └── App.jsx
-│
-├── package.json
-└── README.md
-
+StripePayment/ <br />
+│ <br />
+├── Backend/ <br />
+│   ├── server.js <br />
+│   ├── package.json <br />
+│   └── .env (NOT committed) <br />
+│ <br />
+├── src/ <br />
+│   ├── components/ <br />
+│   │   ├── Products.jsx <br />
+│   │   ├── Success.jsx <br />
+│   │   └── Cancel.jsx <br />
+│   └── App.jsx <br />
+│ <br />
+├── package.json <br />
+└── README.md <br />
+<br />
 
 ## ⚙️ Installation & Setup
 
-# Clone the repository
+# Clone the repository <br />
 git clone https://github.com/your-username/Stripe-Payment.git
 cd Stripe-Payment
 
