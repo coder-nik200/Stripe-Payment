@@ -37,7 +37,7 @@ StripePayment/ <br />
 # Clone the repository <br />
 git clone https://github.com/your-username/Stripe-Payment.git <br />
 cd Stripe-Payment
-
+--
 
 ## My Skills
 
