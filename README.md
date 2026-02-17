@@ -35,7 +35,7 @@ StripePayment/ <br />
 ## ⚙️ Installation & Setup
 
 # Clone the repository <br />
-git clone https://github.com/your-username/Stripe-Payment.git
+git clone https://github.com/your-username/Stripe-Payment.git <br />
 cd Stripe-Payment
 
 
